@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+
+@Html.ActionLink("Privacy Open", "Privacy", "Home", new { queryparam=1 },  new Dictionary<string, Object> { { "class","btn btn-primary" }})
+</br>
+</br>
+</br>
+<a href="@Url.Action("Privacy","Home",new { queryparam=1 })" class="btn btn-danger">Privacy Open</a>
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sol_Html_Action_Url_Action", "Sol_Html_Action_Url_Action\Sol_Html_Action_Url_Action.csproj", "{9E8F3BEE-4D8F-44D9-8C52-055F6CB1154B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E8F3BEE-4D8F-44D9-8C52-055F6CB1154B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8F3BEE-4D8F-44D9-8C52-055F6CB1154B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8F3BEE-4D8F-44D9-8C52-055F6CB1154B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8F3BEE-4D8F-44D9-8C52-055F6CB1154B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0484647-D301-48CA-B327-BEEFAAA98DCE}
+	EndGlobalSection
+EndGlobal
